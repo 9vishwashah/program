@@ -8,8 +8,7 @@ public class Condition{
             System.out.println("Good Day");
         }
         else{
-            System.out.println("Good Evening"
-            );
+            System.out.println("Good Evening");
         }
     }
 }
